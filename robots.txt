@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://indibabar.github.io/sitemap/sitemap.txt
